@@ -9,7 +9,7 @@ My goal was to provide answers to the underlining questions regarding the brands
 I used the following technologies/tools:
 - Python for data extraction, cleaning and manipulation 
 - Excel for understanding the data better and more cleaning
-- SQL for providing the outputs of the questions
+- Oracle SQL Developer for database creation and providing the outputs of the questions
 
 # Review unstructured JSON data and diagram a new structured relational data model
 #The JSON data provided had enroumus number of special characters like '@' , '$" etc.
